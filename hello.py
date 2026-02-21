@@ -1,0 +1,1 @@
+print("Hello Simba, this laptop is ready.")

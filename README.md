@@ -1,4 +1,4 @@
-# Dagmersellen Co. LTD – Inventory & Service Cockpit
+# Baselstrasse Co. LTD – Inventory & Service Cockpit
 
 A small Streamlit app I built on an open beauty distribution dataset to practice
 modern supply chain analytics and AI-style decision support.
